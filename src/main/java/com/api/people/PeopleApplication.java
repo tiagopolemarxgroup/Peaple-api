@@ -1,13 +1,13 @@
-package com.api.peaple;
+package com.api.people;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PeapleApplication {
+public class PeopleApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PeapleApplication.class, args);
+        SpringApplication.run(PeopleApplication.class, args);
     }
 
 }
